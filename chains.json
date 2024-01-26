@@ -14,7 +14,7 @@
     "baseUrl": "https://api-sepolia.etherscan.io",
     "name": "ethereum-sepolia-testnet"
   },
-  "10":{
+  "10": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api-optimistic.etherscan.io",
     "name": "optimism"
@@ -89,11 +89,6 @@
     "baseUrl": "https://api.basescan.org",
     "name": "base"
   },
-  "8453": {
-    "apiRoute": "api?module=contract&action=getabi",
-    "baseUrl": "https://api.basescan.org",
-    "name": "base"
-  },
   "84531": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api-goerli.basescan.org",
@@ -104,12 +99,12 @@
     "baseUrl": "https://api-sepolia.basescan.org",
     "name": "base-sepolia-testnet"
   },
-    "1313161554": {
+  "1313161554": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api.aurorascan.dev",
     "name": "aurora"
   },
-    "42220": {
+  "42220": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api.celoscan.io",
     "name": "celo"
